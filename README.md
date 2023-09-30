@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f61ae152-c644-413b-bd5a-8ec702ce3b76/deploy-status)](https://app.netlify.com/sites/am-todolist-react/deploys)
+
 # Lista 31 - Lista TODO com React
 - Desenvolvido no Curso DEV-TI (Unoesc)
 
